@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { PlaninaComponent } from './Planina/planina/planina.component';
+import { PlaninaComponent } from './Planina/planina.component';
 
 @NgModule({
   declarations: [
